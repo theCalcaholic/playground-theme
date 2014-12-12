@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dark_marble\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-25 18:51+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yuji <yuji@prime-strategy.co.jp>\n"
+"Language-Team: prime strategy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:11
+#: index.php:10
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Archivo de la categoría &#8216;%1$s&#8217;"
+
+#: archive.php:13
+#: index.php:12
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Entradas con la etiqueta &#8216;%1$s&#8217;"
+
+#: archive.php:15
+#: index.php:14
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "Archivo del %s"
+
+#: archive.php:15
+#: archive.php:35
+#: index.php:14
+#: index.php:33
+#: single.php:10
+msgid "F jS, Y"
+msgstr "j \\d\\e F \\d\\e Y"
+
+#: archive.php:17
+#: index.php:16
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "Archivo de %s"
+
+#: archive.php:17
+#: index.php:16
+#: sidebar.php:36
+msgid "F, Y"
+msgstr "F \\d\\e Y"
+
+#: archive.php:19
+#: index.php:18
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "Archivo de %s"
+
+#: archive.php:19
+#: index.php:18
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:21
+#: index.php:20
+msgid "Author Archive"
+msgstr "Archivo por autor"
+
+#: archive.php:23
+#: index.php:22
+msgid "Blog Archives"
+msgstr "Archivos del blog"
+
+#: archive.php:33
+#: index.php:31
+#: page.php:8
+#: search.php:14
+#: single.php:8
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Enlace permanente a %s"
+
+#: archive.php:34
+#: index.php:32
+#: single.php:9
+#, php-format
+msgid "Posted by %s"
+msgstr "Publicado por %s"
+
+#: archive.php:39
+#: index.php:37
+#: page.php:11
+#: single.php:14
+msgid "Read the rest of this entry &raquo;"
+msgstr "Leer el resto de esta entrada &raquo;"
+
+#: archive.php:41
+#: index.php:38
+#: page.php:14
+#: search.php:20
+#: single.php:15
+msgid "Tags:"
+msgstr "Etiquetas:"
+
+#: archive.php:42
+#: index.php:39
+#: search.php:21
+msgid "Edit"
+msgstr "Editar"
+
+#: archive.php:42
+#: index.php:39
+#: search.php:21
+msgid "No Comments &#187;"
+msgstr "No hay comentarios &#187;"
+
+#: archive.php:42
+#: index.php:39
+#: search.php:21
+msgid "1 Comment &#187;"
+msgstr "1 comentario &#187;"
+
+#: archive.php:42
+#: index.php:39
+#: search.php:21
+msgid "% Comments &#187;"
+msgstr "% comentarios &#187;"
+
+#: archive.php:42
+#: index.php:39
+#: search.php:21
+msgid "Comments Closed"
+msgstr "Los comentarios están cerrados."
+
+#: archive.php:50
+#: index.php:47
+msgid "Older Entries"
+msgstr "&laquo; Entradas más antiguas"
+
+#: archive.php:51
+#: index.php:48
+msgid "Newer Entries"
+msgstr "Entradas más recientes &raquo;"
+
+#: archive.php:59
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Disculpa, aún no hay entradas en la categoría %s."
+
+#: archive.php:61
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Disculpa, no hay entradas con esa fecha."
+
+#: archive.php:64
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Disculpa, aún no hay entradas de %s."
+
+#: archive.php:66
+msgid "No posts found."
+msgstr "No se encontraron entradas."
+
+#: comments-popup.php:6
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s - Comentarios en %2$s"
+
+#: comments-popup.php:26
+msgid "Comments"
+msgstr "Comentarios"
+
+#: comments-popup.php:28
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "Canal <abbr title=\"en inglés, Really Simple Syndication\">RSS</abbr> de los comentarios de la entrada."
+
+#: comments-popup.php:31
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "El <abbr title=\"Universal Resource Locator\">URL</abbr> para enviar trackback a esta entrada es: <em>%s</em>"
+
+#: comments-popup.php:49
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments-popup.php:49
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments-popup.php:49
+msgid "Pingback"
+msgstr "Pingback"
+
+#: comments-popup.php:49
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "de %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: comments-popup.php:55
+msgid "No comments yet."
+msgstr "Aún no hay comentarios."
+
+#: comments-popup.php:59
+msgid "Leave a comment"
+msgstr "Deja un comentario"
+
+#: comments-popup.php:60
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Saltos de línea y párrafo automáticos, las direcciones de e-mail jamás se muestran, <acronym title=\"Hypertext Markup Language\">HTML</acronym> permitido: <code>%1$s</code>"
+
+#: comments-popup.php:64
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Identificado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Cerrar sesión con este usuario\">Cerrar sesión &raquo;</a>."
+
+#: comments-popup.php:68
+#: comments.php:65
+msgid "Name"
+msgstr "Nombre"
+
+#: comments-popup.php:73
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments-popup.php:78
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"en inglés, Universal Resource Locator\">URL</abbr>"
+
+#: comments-popup.php:83
+msgid "Your Comment"
+msgstr "Tu comentario"
+
+#: comments-popup.php:91
+msgid "Say It!"
+msgstr "¡Enviar!"
+
+#: comments-popup.php:96
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Disculpa, los comentarios están cerrados por ahora."
+
+#: comments-popup.php:101
+msgid "Close this window."
+msgstr "Cerrar esta ventana."
+
+#: comments-popup.php:107
+#: single.php:40
+msgid "Sorry, no posts matched your criteria."
+msgstr "Disculpa, no hay entradas con lo que buscas."
+
+#: comments-popup.php:111
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Gestionado con <a href=\"%s\" title=\"Gestionado con WordPress, una avanzada plataforma de publicación personal\"><strong>WordPress</strong></a>"
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida con contraseña. Introduce la contraseña para ver los comentarios."
+
+#: comments.php:16
+msgid "No Responses"
+msgstr "No hay respuestas"
+
+#: comments.php:16
+msgid "One Response"
+msgstr "Un comentario"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr "% comentarios"
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:53
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Tienes que <a href=\"%1$s\">iniciar sesión</a> para escribir un comentario."
+
+#: comments.php:60
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Identificado como <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:60
+msgid "Log out of this account"
+msgstr "Cerrar sesión de este usuario"
+
+#: comments.php:60
+msgid "Log out &raquo;"
+msgstr "Cerrar sesión &raquo;"
+
+#: comments.php:65
+#: comments.php:68
+msgid "(required)"
+msgstr "(requerido)"
+
+#: comments.php:68
+msgid "Mail (will not be published)"
+msgstr "E-mail (no se publicará)"
+
+#: comments.php:71
+msgid "Website"
+msgstr "Sitio Web"
+
+#: comments.php:75
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Puedes usar las siguientes etiquetas: <code>%s</code>"
+
+#: comments.php:95
+msgid "Trackback URL for this entry"
+msgstr "El <abbr title=\"Universal Resource Locator\">URL</abbr> para enviar trackback a esta entrada es:"
+
+#: footer.php:9
+msgid "CMS Developer Web"
+msgstr ""
+
+#: footer.php:12
+msgid "Return to pagetop."
+msgstr "Volver a la página superior."
+
+#: header.php:10
+#, php-format
+msgid "%s RSS Feed"
+msgstr "Canal RSS de %s"
+
+#: header.php:11
+#, php-format
+msgid "%s Atom Feed"
+msgstr "Canal Atom de %s"
+
+#: index.php:55
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: index.php:58
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Disculpa, lo que estás buscando no está aquí."
+
+#: page.php:13
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: page.php:16
+#: single.php:28
+msgid "Edit this entry"
+msgstr "Editar esta entrada"
+
+#: search.php:7
+msgid "Search Results"
+msgstr "Resultados de la búsqueda"
+
+#: search.php:27
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Entradas más antiguas"
+
+#: search.php:28
+msgid "Newer Entries &raquo;"
+msgstr "Entradas más recientes &raquo;"
+
+#: search.php:33
+msgid "No posts found. Try a different search?"
+msgstr "No se encuentra ninguna entrada. ¿Quieres probar con otra búsqueda?"
+
+#: searchform.php:2
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: searchform.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: sidebar.php:19
+msgid "Author"
+msgstr "Autor"
+
+#: sidebar.php:30
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Te encuentras en los archivos de la categoría %s."
+
+#: sidebar.php:33
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "Te encuentras en los archivos del blog <a href=\"%1$s\">%2$s</a> para el año %3$s."
+
+#: sidebar.php:33
+msgid "l, F jS, Y"
+msgstr "l, j \\d\\e F \\d\\e Y"
+
+#: sidebar.php:36
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "Te encuentras en los archivos del blog <a href=\"%1$s\">%2$s</a> para %3$s."
+
+#: sidebar.php:39
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "Se encuentra usted en los archivos del blog <a href=\"%1$s\">%2$s</a> para el año %3$s."
+
+#: sidebar.php:42
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "Has buscado el término <strong>&#8216;%3$s\\&#8217;</strong> en los archivos de <a href=\"%1$s\">%2$s</a>. Si no encuentras lo que deseas en estos resultados, prueba con estos enlaces."
+
+#: sidebar.php:45
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "Te encuentras en los archivos del blog <a href=\"%1$s\">%2$s</a>."
+
+#: sidebar.php:51
+msgid "Pages"
+msgstr "Páginas"
+
+#: sidebar.php:53
+msgid "Archives"
+msgstr "Archivos"
+
+#: sidebar.php:59
+msgid "Categories"
+msgstr "Categorías"
+
+#: sidebar.php:64
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:68
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Esta página se valida como XHTML 1.0 Transicional"
+
+#: sidebar.php:68
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "<abbr title=\"en inglés, eXtensible HyperText Markup Language\">XHTML</abbr> válido"
+
+#: sidebar.php:69
+msgid "XHTML Friends Network"
+msgstr "Red de Amigos XHTML"
+
+#: sidebar.php:69
+msgid "XFN"
+msgstr "XFN"
+
+#: sidebar.php:70
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Gestionado con WordPress, una avanzada plataforma semántica de publicación personal."
+
+#: single.php:18
+msgid "Comments Off"
+msgstr "% comentarios &#187;"
+
+#: single.php:22
+msgid "Pings Off."
+msgstr "No hay comentarios &#187;"
+
+#: single.php:26
+msgid "Comments Off , Pings Off."
+msgstr "No hay comentarios &#187;"
+
+#: single.php:32
+msgid "Newer :"
+msgstr "Entradas más recientes :"
+
+#: single.php:33
+msgid "Older :"
+msgstr "Entradas más antiguas :"
+
